@@ -2,7 +2,7 @@
  
 
     ┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           ╱▔  ▔▔▔▔▔▔▔▔▔▔▔▔▔╲
-    ┃   coding   │    JS/TS, Rust, C, Racket     ┃          ▕  Only Bug can do │
+    ┃   coding   │    JS/TS, Rust, C, CLisp      ┃          ▕  Only Bug can do │
     ┠────────────┼───────────────────────────────┨           ╲▁▁▁▁▁▁▁▁▁_    ▁▁╱
     ┃  interest  │ web, gameplay, tui, pixel art ┃                        ╲╱          ▄▀▄ 
     ┠────────────┼───────────────────────────────┨                                  ▄▀   ▀▀▄▄
