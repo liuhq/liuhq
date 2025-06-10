@@ -1,24 +1,16 @@
-<pre>
- 
+coding in JS/TS, Rust, C, CLisp.<br/>
+interested in web, linux, tui, gameplay, pixel art, etc.<br/>
+main projects are **hosted on [sr.ht:~horin](https://sr.ht/~horin).**<br/>
+>Github is only for issues and PRs. thx :P
 
-    ┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           ╱▔  ▔▔▔▔▔▔▔▔▔▔▔▔▔╲
-    ┃   coding   │    JS/TS, Rust, C, CLisp      ┃          ▕  Only Bug can do │
-    ┠────────────┼───────────────────────────────┨           ╲▁▁▁▁▁▁▁▁▁_    ▁▁╱
-    ┃  interest  │ web, gameplay, tui, pixel art ┃                        ╲╱          ▄▀▄ 
-    ┠────────────┼───────────────────────────────┨                                  ▄▀   ▀▀▄▄
-    ┃   status   │   developing a novel editor   ┃                               ▄▀           ▀▀▄▄
-    ┗━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                            ▄▀                   ▀▀▀ █
-                                                                            ▄▀     ⬤                  █
-    ┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓                         █                           █
-    ┃ located in │       Shanghai, China         ┃                   ▄▀▀▬▬          ▔█▃     ⬤        █
-    ┠────────────┼───────────────────────────────┨                   ▀▄▄▄▄▄▄▃                          █
-    ┃    email   │      im.liuhq@gmail.com       ┃                                  ▄▄▄▀▀▬▬    ▂       █
-    ┗━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                                 ▀▁▁▁▂▂▂▅▀▀▀   ▀▀▃▃▃█
+\---
 
+located in *Shanghai, China*<br/>
+you can contact me *via mailto [im.liuhq@gmail.com](mailto:im.liuhq+github@gmail.com)*
 
+<br/>
 
-    todo on life [!?] via thinking (◕‿◕)
-    .> $ make CNM▂
-
- 
-</pre>
+```
+conclusion [?!] via thinking (◕‿◕)
+$ yes, only bugs can do_
+```
