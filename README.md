@@ -1,16 +1,20 @@
-## Hi there 👋
+# ~horin
 
-<!--
-**liuhq/liuhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>aka ***Horace Liu***
 
-Here are some ideas to get you started:
+Coding in **JS/TS, Rust, C, Common Lisp**.<br/>
+Interested in **full-stack development**, **TUI**, **gameplay**, **pixel art**, etc.<br/>
+Main projects on [sr.ht:~horin](https://sr.ht/~horin).<br/>
+>Github is only for issues and PRs, thx :P
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\---
+
+Located in *Shanghai, China*<br/>
+You can contact me via *mailto [im.liuhq@gmail.com](mailto:im.liuhq+github@gmail.com)*
+
+<br/>
+
+```
+conclusion [?!] via thinking (◕‿◕)
+$ yes, only bugs can do_
+```
