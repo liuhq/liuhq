@@ -4,8 +4,6 @@
 
 Coding in **JS/TS (Bun), Rust, C**.<br/>
 Interested in **full-stack development**, **TUI**, **gameplay**, **pixel art**, etc.<br/>
-Main projects on [sr.ht:~horin](https://sr.ht/~horin).<br/>
->Github is only for issues and PRs, thx :P
 
 \---
 
