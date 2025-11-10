@@ -2,7 +2,7 @@
 
 >aka ***Horace Liu***
 
-Coding in **JS/TS (Bun), Rust, C/C++**.<br/>
+Coding in **JS/TS, Rust, C++**.<br/>
 Interested in **full-stack development**, **TUI**, **gameplay**, **pixel art**, etc.<br/>
 
 \---
