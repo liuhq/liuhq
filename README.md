@@ -21,10 +21,7 @@ $ yes, only bugs can do_
 
 ヾ(•ω•`)o _Support me! 支持一下我吧_ ~
 
-<a href="https://www.buymeacoffee.com/horin" target="_blank" style="text-decoration: none !important;">
-  <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="Buy me a coffee" style="height: 28px !important;" >
-</a>
-&nbsp;
-<a href="https://afdian.com/a/horin" target="_blank" style="text-decoration: none !important;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-5E81AC?style=for-the-badge&logo=afdian&logoColor=FFFFFF">
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/pacha)
+<a href="https://afdian.com/a/horin" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-946CE6?logo=afdian&logoColor=FFFFFF">
 </a>
